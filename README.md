@@ -70,11 +70,11 @@ Accurate daily sales forecasting is critical for retail chains managing hundreds
 ├── PREP_HOLIDAY.ipynb        # Holiday feature engineering
 ├── MERGE_DATASET.ipynb       # Merge all sources into one dataset
 │
-├── stationary.ipynb          # Stationarity tests, baseline models, STL
-├── so_sánh.ipynb             # Classical model comparison
-├── sarima.ipynb              # SARIMA modeling
-├── sarimax.ipynb             # SARIMAX with exogenous variables
-├── final_stage.ipynb         # ML, DL, and Hybrid models
+├── STATIONARY.ipynb          # Stationarity tests, baseline models, STL
+├── COMPARE.ipynb             # Classical model comparison
+├── SARIMA.ipynb              # SARIMA modeling
+├── SARIMAX.ipynb             # SARIMAX with exogenous variables
+├── FINAL STAGE.ipynb         # ML, DL, and Hybrid models
 │
 └── full_data_merged.csv      # Final preprocessed dataset
 ```
